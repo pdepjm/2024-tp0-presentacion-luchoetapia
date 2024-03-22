@@ -1,5 +1,8 @@
 # LUCIANO TAPIA
 
+### Nombre completo: Luciano Ezequiel Tapia
+### Legajo: 214.176-0
+
 ![1711113976897](https://github.com/pdepjm/2024-tp0-presentacion-luchoetapia/assets/154647142/aaa9faba-d909-4f12-8f77-4d642fa45ce9)
 
 ## Sobre mi
